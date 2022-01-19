@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239778854133",
+    "project_id": "subway-app-e7fa6",
+    "storage_bucket": "subway-app-e7fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239778854133:android:79deb32d779e6f452f01bc",
+        "android_client_info": {
+          "package_name": "com.han.subway_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239778854133-7rnv75qvbfddk2dgab6ahb7cat5nia85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7aj0FhHMRSnGODkF3A1_YVFQxoYlKtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239778854133-7rnv75qvbfddk2dgab6ahb7cat5nia85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
