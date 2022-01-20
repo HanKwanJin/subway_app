@@ -29,6 +29,13 @@ class StationsPresenter(
             queryString.emit(query)
         }
     }
+
+    override fun toggleStationFavorite(station: Station) {
+        scope.launch {
+            stationRepository.updateStation(station.copy(isFavorite = !station.isFavorite))
+        }
+    }
+
     override fun onDestroyView() {}
 
     private fun observeStations(){

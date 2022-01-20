@@ -1,6 +1,7 @@
 package com.han.subway_app.data.api.response.mapper
 
 import com.han.subway_app.data.api.response.RealtimeArrival
+import com.han.subway_app.domain.ArrivalInformation
 import com.han.subway_app.domain.Subway
 import java.text.SimpleDateFormat
 import java.util.*
